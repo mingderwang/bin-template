@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@transmute/lds-ecdsa-secp256k1-recovery2020": "0.0.7"
+    "@transmute/lds-ecdsa-secp256k1-recovery2020": "0.0.7",
+    "libp2p-crypto": "^0.19.4",
+    "minimist": "^1.2.5"
   }
 }
