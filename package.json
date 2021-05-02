@@ -1,0 +1,15 @@
+{
+  "name": "InsidiousStrictPi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@transmute/lds-ecdsa-secp256k1-recovery2020": "0.0.7"
+  }
+}
